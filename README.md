@@ -1,4 +1,4 @@
-# ResearchPilot
+# ResearchPilot - Deep Research AI Agent
 
 ResearchPilot is an AI-powered deep research intelligence system that automates the process of gathering information from the web, extracting relevant content, generating structured research reports, reviewing findings, and refining outputs.
 
