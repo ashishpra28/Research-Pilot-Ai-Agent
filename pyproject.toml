@@ -1,9 +1,9 @@
 [project]
-name = "Research-Pilot-Ai-Agent"
+name = "research-pilot-ai-agent"
 version = "0.1.0"
 description = "ResearchPilot is an AI research assistant that searches the web, gathers evidence, generates structured reports, reviews findings, and produces refined research outputs."
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.11"
 dependencies = [
     "arxiv>=1.4.8",
     "beautifulsoup4>=4.14.3",
