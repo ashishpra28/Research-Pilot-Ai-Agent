@@ -78,7 +78,7 @@ def research_pipeline(topic:str)->dict:
     for source in state["sources"]:
         research+=(
             f"\n\nURL: {source['url']}\n\n"
-            f"{source['content'][:1500]}"
+            f"{source['content'][:500]}"
         )
 
     state["research_corpus"] = research 
