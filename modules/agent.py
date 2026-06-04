@@ -15,7 +15,7 @@ print("GROQ KEY FOUND:", bool(os.getenv("GROQ_API_KEY")))
 print("TAVILY KEY FOUND:", bool(os.getenv("TAVILY_API_KEY")))
 
 # Define llm
-llm = init_chat_model(model="llama-3.1-8b-instant",
+llm = init_chat_model(model="openai/gpt-oss-20b",
                       model_provider="groq",
                       temperature = 0)
 
