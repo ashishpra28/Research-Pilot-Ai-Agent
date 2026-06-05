@@ -4,6 +4,8 @@ ResearchPilot is an AI-powered deep research intelligence system that automates 
 
 Built using LangChain, Tavily Search, Groq LLMs, BeautifulSoup, and Streamlit.
 
+Check App: https://research-pilot-ai-agent.onrender.com/
+
 ---
 
 ## Features
